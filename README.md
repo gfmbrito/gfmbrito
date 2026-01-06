@@ -1,4 +1,4 @@
-### ** 👋🏽 Hi there**
+### **👋🏽 Hi there**
 
 Sou o Gabriel. Curto backend, APIs e tudo que envolve fazer sistemas funcionarem direito por trás das cenas.
 
