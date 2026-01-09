@@ -1,30 +1,28 @@
-### **👋🏽 Hi there**
+# 👋 Hi, I'm Gabriel
 
-Sou o Gabriel. Curto backend, APIs e tudo que envolve fazer sistemas funcionarem direito por trás das cenas.
+I am a **backend developer** with over 3 years of experience building, maintaining, and evolving backend systems and APIs used in production environments.
 
-Costumo programar em C#/.NET, Java e Go, gosto de mexer com Linux, automatizar coisas com Docker e CI/CD, e aprender testando na prática.
-Meu setup atual é Arch Linux com Hyprland, então provavelmente também gosto mais de configurar do que deveria 😅
+My work is primarily focused on **C# / .NET** and **Java (Spring Boot)**, developing RESTful services, integrating relational databases, and contributing to backend architectures. Throughout my career, I have worked on real-world projects from early architectural decisions through delivery and production support.
 
-Aqui você vai encontrar projetos de estudo, coisas que uso no dia a dia, testes de ideias e alguns projetos pessoais.
+I have hands-on experience with:
+- **REST API development**
+- **Relational database modeling and integration**
+- **Docker** and **CI/CD pipelines**
+- **Cloud infrastructure (AWS)**
+- **Linux environments and server configuration**
 
----  
-### 🛠️ Ferramentas e Tecnologias
-
-* **Linguagens:** C#, Java, Go  
-* **Bancos:** PostgreSQL, MySQL, SQL Server, MongoDB  
-* **Backend:** APIs REST, Swagger / OpenAPI  
-* **DevOps & Infra:** Docker, Docker Compose, CI/CD, AWS, Linux  
-* **Ferramentas:** Git, GitHub, GitLab, Azure DevOps, Postman  
-* **Terminal & Setup:** Bash, shell scripts, Arch Linux, Hyprland  
-
---- 
-### 👤 Um pouco sobre mim
-* ❄️ Prefiro climas frios  
-* ☕ Gosto bastante de café  
-* 🐱 Tenho dois gatos  
-* 🐧 Usuário de Linux no dia a dia 
+I have also worked with other technologies as required by different projects, which helped me build a broader understanding of software development. However, my main and current focus is on **backend development** and **service-oriented architectures**.
 
 ---
-### 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/gfmbrito  
-- Email: gfmbrito.dev@gmail.com
+
+## 🛠️ Core technologies
+
+- **Backend:** C#, .NET, Java, Spring Boot  
+- **APIs:** REST, service integration  
+- **Databases:** PostgreSQL, MySQL, Oracle  
+- **Infra & DevOps:** Docker, AWS, CI/CD, Linux  
+- **Version control:** Git, GitHub  
+
+---
+
+📫 **LinkedIn:** [https://www.linkedin.com/in/gfmbrito](https://www.linkedin.com/in/gfmbrito ) 
